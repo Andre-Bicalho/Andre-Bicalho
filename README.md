@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andre-Bicalho
-- 👀 I’m interested in evoluír meus conhecimentos.
+- 👀 I’m interested in evoluír meus conhecimentos em relação a àrea da computação.
 - 🌱 I’m currently learning linguagem C.
 - 📫 Meu e-mail para contato é: marcosandreabicalho@gmail.com
 
